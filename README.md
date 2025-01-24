@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello, I'm Omkar Ardekar</h1>
 <h3 align="center">I am a Software Developer with a Keen Interest in Competitive Programming and Software Development.</h3>
-
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/361209cc-47c1-4f43-87b9-3d9e2eb61379" alt="Omkar" width="500" height="500"/>
+</div>
 <h3 align="left">Languages and Tools: </h3>
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
