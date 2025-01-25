@@ -1,8 +1,6 @@
-<!--
-## Hi there 👋
+<!-- ## Hi there 👋
 **Omkar-Ardekar/Omkar-Ardekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -10,15 +8,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 <!--
 <h1 align="center">Hello, I'm Omkar Ardekar</h1>
 <h3 align="center">I am a Software Developer with a Keen Interest in Competitive Programming and Software Development.</h3>
 -->
 <img src="https://github.com/user-attachments/assets/061faba8-0b08-489e-b3d1-0e5f314b9650" alt="Header Image" width="100%" />
 
-<br><br>
+<br>
 
 <h3 align="left">Languages and Tools: </h3>
 <p align="left"> 
@@ -40,12 +37,12 @@ Here are some ideas to get you started:
 <br><br>
 
 <div align="center">
-    <span align="left">
-        <img src="https://github.com/user-attachments/assets/f4b9aefa-fe57-43fe-aee5-0a70294b5d4c" alt="LeetCode" width="300" height="300"/>
-    </span>
-    <span align="right">
-        <img src="https://github.com/user-attachments/assets/62e9c8b4-dd39-4784-aa42-e5949f56fc5c" alt="Omkar" width="300" height="300"/>
-    </span>
+    <div align="left">
+        <img src="https://github.com/user-attachments/assets/d136491f-5f02-4686-ad15-8b38315acf83" alt="LeetCode" width="450" height="450"/>
+    </div>
+    <div align="right">
+        <img src="https://github.com/user-attachments/assets/62e9c8b4-dd39-4784-aa42-e5949f56fc5c" alt="Omkar" width="450" height="450"/>
+    </div>
 </div>
 
 <br>
