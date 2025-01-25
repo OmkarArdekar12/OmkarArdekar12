@@ -14,8 +14,16 @@ Here are some ideas to get you started:
 <h3 align="center">I am a Software Developer with a Keen Interest in Competitive Programming and Software Development.</h3>
 -->
 <img src="https://github.com/user-attachments/assets/9eafd288-0ae3-4a7e-b96d-f95b33439e3e" alt="Header Image" width="100%" />
+<br><br>
 
-<br>
+<div align="center">
+    <div align="left">
+        <img src="https://github.com/user-attachments/assets/236d3f8f-12f7-4d03-8b82-1ca2cad9f374" alt="LeetCode" width="370" height="370"/>
+    </div>
+    <div align="right">
+        <img src="https://github.com/user-attachments/assets/62e9c8b4-dd39-4784-aa42-e5949f56fc5c" alt="Omkar" width="450" height="450"/>
+    </div>
+</div><br>
 
 <h3 align="left">Languages and Tools: </h3>
 <p align="left"> 
@@ -32,20 +40,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</p>
-
-<br><br>
-
-<div align="center">
-    <div align="left">
-        <img src="https://github.com/user-attachments/assets/236d3f8f-12f7-4d03-8b82-1ca2cad9f374" alt="LeetCode" width="450" height="450"/>
-    </div>
-    <div align="right">
-        <img src="https://github.com/user-attachments/assets/62e9c8b4-dd39-4784-aa42-e5949f56fc5c" alt="Omkar" width="450" height="450"/>
-    </div>
-</div>
-
-<br>
+</p><br>
 
 <h3 align="center">Connect with me: </h3>
 <p align="center">
