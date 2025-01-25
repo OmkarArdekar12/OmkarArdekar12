@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I'm Omkar Ardekar</h1>
 <h3 align="center">I am a Software Developer with a Keen Interest in Competitive Programming and Software Development.</h3>
 -->
-<img src="https://github.com/user-attachments/assets/bea3f7c3-0d6d-46ec-add3-5756b74277d6" alt="Header Image" width="100%" />
+<img src="https://github.com/user-attachments/assets/9eafd288-0ae3-4a7e-b96d-f95b33439e3e" alt="Header Image" width="100%" />
 
 <br>
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <div align="left">
-        <img src="https://github.com/user-attachments/assets/d136491f-5f02-4686-ad15-8b38315acf83" alt="LeetCode" width="450" height="450"/>
+        <img src="https://github.com/user-attachments/assets/93376bdb-e450-426a-a724-99630b7f1692" alt="LeetCode" width="450" height="450"/>
     </div>
     <div align="right">
         <img src="https://github.com/user-attachments/assets/62e9c8b4-dd39-4784-aa42-e5949f56fc5c" alt="Omkar" width="450" height="450"/>
