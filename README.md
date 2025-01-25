@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I'm Omkar Ardekar</h1>
 <h3 align="center">I am a Software Developer with a Keen Interest in Competitive Programming and Software Development.</h3>
 -->
-<img src="https://github.com/user-attachments/assets/061faba8-0b08-489e-b3d1-0e5f314b9650" alt="Header Image" width="100%" />
+<img src="https://github.com/user-attachments/assets/bea3f7c3-0d6d-46ec-add3-5756b74277d6" alt="Header Image" width="100%" />
 
 <br>
 
