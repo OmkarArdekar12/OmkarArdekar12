@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I'm Omkar Ardekar</h1>
 <h3 align="center">I am a Software Developer with a Keen Interest in Competitive Programming and Software Development.</h3>
 -->
-<img src="https://github.com/user-attachments/assets/55f8b1e0-6d34-451b-b645-7022cd26c882" alt="Header Image" width="100%" />
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/62e9c8b4-dd39-4784-aa42-e5949f56fc5c" alt="Omkar" width="300" height="300"/>
-</div>
+<img src="https://github.com/user-attachments/assets/061faba8-0b08-489e-b3d1-0e5f314b9650" alt="Header Image" width="100%" />
+
+<br><br>
+
 <h3 align="left">Languages and Tools: </h3>
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -37,11 +37,18 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
-<div align="left">
-    <h2>My LeetCode Coding Profile :</h2>
-    <h5>Total Problems Solved on LeetCode : </h5>
-    <img src="https://github.com/user-attachments/assets/f4b9aefa-fe57-43fe-aee5-0a70294b5d4c" alt="LeetCode" width="300" height="300"/>
+<br><br>
+
+<div align="center">
+    <span align="left">
+        <img src="https://github.com/user-attachments/assets/f4b9aefa-fe57-43fe-aee5-0a70294b5d4c" alt="LeetCode" width="300" height="300"/>
+    </span>
+    <span align="right">
+        <img src="https://github.com/user-attachments/assets/62e9c8b4-dd39-4784-aa42-e5949f56fc5c" alt="Omkar" width="300" height="300"/>
+    </span>
 </div>
+
+<br>
 
 <h3 align="center">Connect with me: </h3>
 <p align="center">
