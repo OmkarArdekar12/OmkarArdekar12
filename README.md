@@ -35,6 +35,12 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
+<div align="left">
+    <h2>My LeetCode Coding Profile :</h2>
+    <h5>Total Problems Solved on LeetCode : </h5>
+    <img src="https://github.com/user-attachments/assets/f4b9aefa-fe57-43fe-aee5-0a70294b5d4c" alt="LeetCode" width="300" height="300"/>
+</div>
+
 <h3 align="center">Connect with me: </h3>
 <p align="center">
 <a href="https://linkedin.com/in/omkarardekar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarardekar03" height="30" width="40" /></a>
