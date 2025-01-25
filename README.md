@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <div align="left">
-        <img src="https://github.com/user-attachments/assets/236d3f8f-12f7-4d03-8b82-1ca2cad9f374" alt="LeetCode" width="370" height="370"/>
+        <img src="https://github.com/user-attachments/assets/3ab13534-b58b-486d-828b-4e10bd02bf58" alt="LeetCode" width="370" height="370"/>
     </div>
     <div align="right">
         <img src="https://github.com/user-attachments/assets/62e9c8b4-dd39-4784-aa42-e5949f56fc5c" alt="Omkar" width="450" height="450"/>
