@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, I'm Omkar Ardekar</h1>
 <h3 align="center">I am a Software Developer with a Keen Interest in Competitive Programming and Software Development.</h3>
 -->
-<img src="https://github.com/user-attachments/assets/9eafd288-0ae3-4a7e-b96d-f95b33439e3e" alt="Header Image" width="100%" />
+<img src="https://github.com/user-attachments/assets/05efeff1-3b5a-4605-a3eb-251148617bb9" alt="Header Image" width="100%" />
 <br><br>
 
 <div align="center">
@@ -42,16 +42,13 @@ Here are some ideas to get you started:
     </div>
 </div><br><br>
 
-<div align="center">
-    <div align="right">
-        <img src="https://github.com/user-attachments/assets/62e9c8b4-dd39-4784-aa42-e5949f56fc5c" alt="Omkar" width="450" height="450"/>
-    </div>
-    <div align="left">
-        <img src="https://github.com/user-attachments/assets/3ab13534-b58b-486d-828b-4e10bd02bf58" alt="LeetCode" width="370" height="370"/>
-    </div>
-</div><br>
+<div align="right">
+    <img src="https://github.com/user-attachments/assets/0c795328-9679-43c4-9261-ed8e94a6430c" alt="Omkar" width="450" height="450"/>
+</div><br><br>
 
-
+<div align="left">
+    <img src="https://github.com/user-attachments/assets/3ab13534-b58b-486d-828b-4e10bd02bf58" alt="LeetCode" width="370" height="370"/>
+</div>
 <h3 align="center">Connect with me: </h3>
 <p align="center">
 <a href="https://linkedin.com/in/omkarardekar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarardekar03" height="30" width="40" /></a>
