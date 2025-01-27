@@ -44,12 +44,12 @@ Here are some ideas to get you started:
 
 <div align="right">
     <img src="https://github.com/user-attachments/assets/0c795328-9679-43c4-9261-ed8e94a6430c" alt="Omkar" width="450" height="450"/>
-</div><br><br>
-
-<div align="left">
-    <img src="https://github.com/user-attachments/assets/3ab13534-b58b-486d-828b-4e10bd02bf58" alt="LeetCode" width="370" height="370"/>
 </div>
-<h3 align="center">Connect with me: </h3>
-<p align="center">
-<a href="https://linkedin.com/in/omkarardekar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarardekar03" height="30" width="40" /></a>
+
+<!-- <div align="left">
+    <img src="https://github.com/user-attachments/assets/3ab13534-b58b-486d-828b-4e10bd02bf58" alt="LeetCode" width="370" height="370"/>
+</div> -->
+<h3 align="left">Connect with me: </h3>
+<p align="left">
+<a href="https://linkedin.com/in/omkarardekar03" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarardekar03" height="30" width="40" /></a>
 </p>
