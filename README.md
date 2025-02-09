@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 </div><br><br>
 
 <div align="right">
-    <img src="https://github.com/user-attachments/assets/0c795328-9679-43c4-9261-ed8e94a6430c" alt="Omkar" width="450" height="450"/>
+    <img src="https://github.com/user-attachments/assets/0c795328-9679-43c4-9261-ed8e94a6430c" alt="Omkar" width="57%"/>
 </div>
 
 <h3 align="left">Connect with me: </h3>
