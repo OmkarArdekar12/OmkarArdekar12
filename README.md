@@ -1,20 +1,4 @@
-<!-- ## Hi there 👋
-**Omkar-Ardekar/Omkar-Ardekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-<!--<h1 align="center">Hello, I'm Omkar Ardekar</h1>
-<h3 align="center">I am a Software Developer with a Keen Interest in Competitive Programming and Software Development.</h3>
-<img src="https://github.com/user-attachments/assets/05efeff1-3b5a-4605-a3eb-251148617bb9" alt="Header Image" width="100%"/>
--->
-<img src="https://github.com/user-attachments/assets/6346aab7-e9de-4f60-a107-4478e09d8410" alt="HeaderImage" width="100%" align="center"/>
-<br><br>
+<img src="MyGitHubHeader.gif" alt="HeaderImage" width="100%" align="center"/><br><br>
 
 <div align="center">
     <div align="center">
@@ -43,10 +27,29 @@ Here are some ideas to get you started:
 </div><br><br>
 
 <div align="right">
-    <img src="https://github.com/user-attachments/assets/0c795328-9679-43c4-9261-ed8e94a6430c" alt="Omkar" width="57%"/>
+    <img src="myCodingGITHUB.gif" alt="Omkar" width="57%"/>
 </div>
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/omkarardekar03" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarardekar03" height="30" width="40" /></a>
 </p>
+
+<!-- ## Hi there 👋
+**Omkar-Ardekar/Omkar-Ardekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+<!--<h1 align="center">Hello, I'm Omkar Ardekar</h1>
+<h3 align="center">I am a Software Developer with a Keen Interest in Competitive Programming and Software Development.</h3>
+<img src="https://github.com/user-attachments/assets/05efeff1-3b5a-4605-a3eb-251148617bb9" alt="Header Image" width="100%"/>
+<img src="https://github.com/user-attachments/assets/6346aab7-e9de-4f60-a107-4478e09d8410" alt="HeaderImage" width="100%" align="center"/>
+<div align="right">
+    <img src="https://github.com/user-attachments/assets/0c795328-9679-43c4-9261-ed8e94a6430c" alt="Omkar" width="57%"/>
+</div>-->
