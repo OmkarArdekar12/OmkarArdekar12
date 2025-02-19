@@ -16,7 +16,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="Git logo" />
-        <img src="https://github.com/user-attachments/assets/62b758b9-5a55-49b8-8e4b-3a14e2660e47" height="40" alt="GitHub logo" />
+        <img src="https://github.com/user-attachments/assets/5ad53ffe-2196-42bf-88ae-99b2a15752ed" height="40" alt="GitHub logo" />
     </div>
     <div align="center">
         <h2 align="center">Code Editors</h2>
