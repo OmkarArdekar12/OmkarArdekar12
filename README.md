@@ -1,29 +1,28 @@
-<img src="MyGitHubHeader.gif" alt="HeaderImage" width="100%" align="center"/><br><br>
+<img src="MyGitHubHeader.gif" alt="MyHeaderImage" width="100%" align="center"/><br><br><br>
 
 <div align="center">
     <div align="center">
         <h2 align="center">Technologies</h2>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python logo" />
-        <img src="https://github.com/user-attachments/assets/a3c78bfa-0871-40fb-8bc5-98555173a12d" height="40" alt="Express logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="MongoDB logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="Bootstrap logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="Git logo" />
-        <img src="https://github.com/user-attachments/assets/5ad53ffe-2196-42bf-88ae-99b2a15752ed" height="40" alt="GitHub logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55" alt="Java logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++ logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="45" alt="Python logo" />
+        <img src="https://github.com/user-attachments/assets/a3c78bfa-0871-40fb-8bc5-98555173a12d" height="45" alt="Express logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45" alt="Node.js logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="45" alt="MongoDB logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="45" alt="Bootstrap logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3 logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5 logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" alt="Git logo" />
+        <img src="https://github.com/user-attachments/assets/5ad53ffe-2196-42bf-88ae-99b2a15752ed" height="45" alt="GitHub logo" />
     </div>
     <div align="center">
         <h2 align="center">Tools</h2>
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-FFFF00?style=for-the-badge&logo=visualstudiocode&logoColor=e65100" alt="VS Code" />
         <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=ffd700" alt="IntelliJ IDEA" />
         <img src="https://img.shields.io/badge/Sublime%20Text-4C4F56?style=for-the-badge&logo=sublimetext&logoColor=ffb300" alt="Sublime Text" />
-        <img src="https://img.shields.io/badge/CLion-185C6D?style=for-the-badge&logo=clion&logoColor=000000" alt="CLion" />
         <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" />
     </div>
 </div><br><br><br>
@@ -38,7 +37,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="37" alt="LinkedIn logo" />
 </a>
 </p>
-<br><br>
+<br>
 
 <!-- ## Hi there 👋
 **Omkar-Ardekar/Omkar-Ardekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
