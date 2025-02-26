@@ -19,12 +19,14 @@
         <img src="https://github.com/user-attachments/assets/5ad53ffe-2196-42bf-88ae-99b2a15752ed" height="40" alt="GitHub logo" />
     </div>
     <div align="center">
-        <h2 align="center">Code Editors</h2>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="VSCode logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
+        <h2 align="center">Tools</h2>
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-FFFF00?style=for-the-badge&logo=visualstudiocode&logoColor=e65100" alt="VS Code" />
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=ffd700" alt="IntelliJ IDEA" />
+        <img src="https://img.shields.io/badge/Sublime%20Text-4C4F56?style=for-the-badge&logo=sublimetext&logoColor=ffb300" alt="Sublime Text" />
+        <img src="https://img.shields.io/badge/CLion-185C6D?style=for-the-badge&logo=clion&logoColor=000000" alt="CLion" />
+        <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" />
     </div>
-</div><br><br>
+</div><br><br><br>
 
 <div align="right">
     <img src="myCodingGITHUB.gif" alt="Omkar" width="57%"/>
@@ -32,8 +34,11 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/omkarardekar03" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkarardekar03" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omkarardekar03" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="37" alt="LinkedIn logo" />
+</a>
 </p>
+<br><br>
 
 <!-- ## Hi there 👋
 **Omkar-Ardekar/Omkar-Ardekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,3 +58,6 @@ Here are some ideas to get you started:
 <div align="right">
     <img src="https://github.com/user-attachments/assets/0c795328-9679-43c4-9261-ed8e94a6430c" alt="Omkar" width="57%"/>
 </div>-->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="VSCode logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" /> -->
