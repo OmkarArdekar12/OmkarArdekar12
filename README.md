@@ -1,4 +1,4 @@
-<img src="MyGitHubHeader.gif" alt="MyHeaderImage" width="100%" align="center"/><br><br><br>
+<img src="myHeader.gif" alt="MyHeaderImage" width="100%" align="center"/><br><br><br>
 
 <div align="center">
     <div align="center">
@@ -28,7 +28,7 @@
 </div><br><br><br>
 
 <div align="right">
-    <img src="myCodingGITHUB.gif" alt="Omkar" width="57%"/>
+    <img src="myCoding.gif" alt="Omkar" width="57%"/>
 </div>
 
 <h3 align="left">Connect with me: </h3>
@@ -58,6 +58,6 @@ Here are some ideas to get you started:
 </div>-->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="VSCode logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
 <img src="https://github.com/user-attachments/assets/a3c78bfa-0871-40fb-8bc5-98555173a12d" height="45" alt="Express logo" />
 <img src="https://github.com/user-attachments/assets/5ad53ffe-2196-42bf-88ae-99b2a15752ed" height="45" alt="GitHub logo" /> -->
