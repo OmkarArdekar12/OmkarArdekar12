@@ -1,4 +1,4 @@
-<img src="myHeader.gif" alt="MyHeaderImage" width="100%" align="center"/><br><br><br>
+<img src="Omkar.gif" alt="MyHeaderImage" width="100%" align="center" style="border-radius: 10px"/><br><br><br>
 
 <div align="center">
     <div align="center">
@@ -26,10 +26,6 @@
         <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" height="27" />
     </div>
 </div><br><br><br>
-
-<div align="right">
-    <img src="myCoding.gif" alt="Omkar" width="57%"/>
-</div>
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
@@ -61,3 +57,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
 <img src="https://github.com/user-attachments/assets/a3c78bfa-0871-40fb-8bc5-98555173a12d" height="45" alt="Express logo" />
 <img src="https://github.com/user-attachments/assets/5ad53ffe-2196-42bf-88ae-99b2a15752ed" height="45" alt="GitHub logo" /> -->
+<!-- <div align="right">
+    <img src="myCoding.gif" alt="Omkar" width="57%"/>
+</div> -->
