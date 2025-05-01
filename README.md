@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/omkarardekar03" target="_blank">
+<a href="https://www.linkedin.com/in/omkarardekar09" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="37" alt="LinkedIn logo" />
 </a>
 </p><br>
