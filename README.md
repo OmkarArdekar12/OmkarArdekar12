@@ -2,39 +2,52 @@
 
 <div align="center">
     <div align="center">
-        <h2 align="center">Technologies</h2>
+        <h1 align="left">Programming Languages</h1>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55" alt="Java logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" alt="react logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++ logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="45" alt="Python logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="45" alt="Node.js logo" />
-        <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="45" alt="MongoDB logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="45" alt="Bootstrap logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="45" alt="tailwindcss logo"  />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="45" alt="Git logo" />
-        <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+    </div>
+    <div align="center">
+      <h1 align="left">Technologies</h1>
+      <img src="https://img.shields.io/badge/React-191919?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="45" />
+      <img src="https://img.shields.io/badge/Redux-191919?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" height="45" />
+      <img src="https://img.shields.io/badge/Node.js-191919?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" height="45" />
+      <img src="https://img.shields.io/badge/Express.js-191919?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" height="45" />
+      <img src="https://img.shields.io/badge/MySQL-191919?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" height="45" />
+      <img src="https://img.shields.io/badge/MongoDB-191919?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" height="45" />
+      <img src="https://img.shields.io/badge/Bootstrap-191919?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="45" />
+      <img src="https://img.shields.io/badge/TailwindCSS-191919?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" height="45" />
+      <img src="https://img.shields.io/badge/Git-191919?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" height="45" />
+      <img src="https://img.shields.io/badge/GitHub-191919?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" height="45" />
+      <img src="https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="45" />
+      <img src="https://img.shields.io/badge/CSS3-191919?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" height="45" />
+      <img src="https://img.shields.io/badge/HTML5-191919?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" height="45" />
+      <img src="https://img.shields.io/badge/C-191919?style=for-the-badge&logo=c&logoColor=00599C" alt="C" height="45" />
+      <img src="https://img.shields.io/badge/Java-191919?style=for-the-badge&logo=java&logoColor=ED8B00" alt="Java" height="45" />
+      <img src="https://img.shields.io/badge/C++-191919?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" height="45" /> 
+      <img src="https://img.shields.io/badge/Python-191919?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" height="45" />
     </div>
     <div align="center">
         <h2 align="center">Tools</h2>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-FFFF00?style=for-the-badge&logo=visualstudiocode&logoColor=e65100" alt="VS Code" height="27" />
-        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=ffd700" alt="IntelliJ IDEA" height="27" />
-        <img src="https://img.shields.io/badge/Sublime%20Text-4C4F56?style=for-the-badge&logo=sublimetext&logoColor=ffb300" alt="Sublime Text" height="27" />
-        <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" height="27" />
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-FFFF00?style=for-the-badge&logo=visualstudiocode&logoColor=e65100" alt="VS Code" height="33" />
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=ffd700" alt="IntelliJ IDEA" height="33" />
+        <img src="https://img.shields.io/badge/Sublime%20Text-4C4F56?style=for-the-badge&logo=sublimetext&logoColor=ffb300" alt="Sublime Text" height="33" />
+        <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" height="33" />
+        <img src="https://img.shields.io/badge/Postman-FFDF00?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" height="33" />
+        <img src="https://img.shields.io/badge/Figma-FFFF0D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="33" />
+        <img src="https://img.shields.io/badge/Hoppscotch-111F0F?style=for-the-badge&logo=hoppscotch&logoColor=31C48D" alt="Hoppscotch" height="33" />
     </div>
-</div><br><br><br>
-
-<h3 align="left">Connect with me: </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/omkarardekar09" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="37" alt="LinkedIn logo" />
-</a>
-</p><br>
+    <div>
+        <h3 align="right">Connect with me: </h3>
+        <p align="right">
+        <a href="https://www.linkedin.com/in/omkarardekar09" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="37" alt="LinkedIn logo" />
+        </a>
+        </p><br>
+    </div>
+</div>
 
 <!-- ## Hi there 👋
 **Omkar-Ardekar/Omkar-Ardekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
