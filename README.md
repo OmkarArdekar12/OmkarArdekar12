@@ -41,7 +41,7 @@
         <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="27" />
         <img src="https://img.shields.io/badge/Hoppscotch-111F0F?style=for-the-badge&logo=hoppscotch&logoColor=31C48D" alt="Hoppscotch" height="27" />
     </div>
-    <br/><br/><br/>
+    <br/>
     <div>
         <h2 align="right">Connect with me:
             <p align="right"> 
@@ -49,7 +49,6 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="37" alt="LinkedIn logo" />
                 </a>
             <p>
-            <br/>
         </h2>
     </div>
 </div>
