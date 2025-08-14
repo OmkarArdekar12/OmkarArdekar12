@@ -43,12 +43,12 @@
     </div>
     <br/>
     <div>
-        <h2 align="right">Connect with me:
+        <h3 align="right">Connect with me:
             <p align="right"> 
                 <a href="https://www.linkedin.com/in/omkarardekar09" target="_blank">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="25" alt="LinkedIn logo" />
                 </a>
             <p>
-        </h2>
+        </h3>
     </div>
 </div>
