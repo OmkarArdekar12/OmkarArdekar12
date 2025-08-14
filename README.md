@@ -44,9 +44,11 @@
     <br/>
     <div>
         <h2 align="right">Connect with me:
-            <a href="https://www.linkedin.com/in/omkarardekar09" target="_blank">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33" align="center" alt="LinkedIn logo" />
-            </a>
+            <p align="center">
+                <a href="https://www.linkedin.com/in/omkarardekar09" target="_blank">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33" alt="LinkedIn logo" />
+                </a>
+            </p>
         </h2>
     </div>
 </div>
