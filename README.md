@@ -31,15 +31,15 @@
     <br/>
     <div align="center">
         <h1 align="left">Tools</h1>
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1234DF?style=for-the-badge&logo=devbox&logoColor=FFFF00" alt="VS Code" height="25" />
-        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=ffd700" alt="IntelliJ IDEA" height="25" />
-        <img src="https://img.shields.io/badge/Sublime%20Text-4C4F56?style=for-the-badge&logo=sublimetext&logoColor=ffb300" alt="Sublime Text" height="25" />
-        <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" height="25" />
-        <img src="https://img.shields.io/badge/Git-FFA500?style=for-the-badge&logo=git&logoColor=FF0000" alt="Git" height="25" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" height="25" />
-        <img src="https://img.shields.io/badge/Postman-91FF00?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" height="25" />
-        <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="25" />
-        <img src="https://img.shields.io/badge/Hoppscotch-111F0F?style=for-the-badge&logo=hoppscotch&logoColor=31C48D" alt="Hoppscotch" height="25" />
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1234DF?style=for-the-badge&logo=devbox&logoColor=FFFF00" alt="VS Code" height="28" />
+        <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=ffd700" alt="IntelliJ IDEA" height="28" />
+        <img src="https://img.shields.io/badge/Sublime%20Text-4C4F56?style=for-the-badge&logo=sublimetext&logoColor=ffb300" alt="Sublime Text" height="28" />
+        <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" height="28" />
+        <img src="https://img.shields.io/badge/Git-FFA500?style=for-the-badge&logo=git&logoColor=FF0000" alt="Git" height="28" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" height="28" />
+        <img src="https://img.shields.io/badge/Postman-91FF00?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" height="28" />
+        <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="28" />
+        <img src="https://img.shields.io/badge/Hoppscotch-111F0F?style=for-the-badge&logo=hoppscotch&logoColor=31C48D" alt="Hoppscotch" height="28" />
     </div>
     <br/>
     <div>
