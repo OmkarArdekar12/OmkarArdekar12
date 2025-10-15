@@ -1,5 +1,4 @@
 <img src="FinalHeader.gif" alt="MyHeaderImage" width="100%" align="center" /><br/><br/><br/>
-
 <div align="center">
     <div align="center">
         <h1 align="left">Programming Languages</h1>
@@ -45,7 +44,7 @@
     <div>
         <h2 align="right">Connect with me
             <p align="right">
-                <a href="https://www.linkedin.com/in/omkarardekar09" target="_blank">
+                <a href="https://www.linkedin.com/in/omkarardekar09" target="_blank" rel="noopener noreferrer">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33" alt="LinkedIn logo" />
                 </a>
             </p>
