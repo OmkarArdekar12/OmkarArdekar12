@@ -1,4 +1,5 @@
-<img src="FinalHeader.gif" alt="MyHeaderImage" width="100%" align="center" /><br/><br/><br/>
+<img src="Header.gif" alt="MyHeaderImage" width="100%" align="center" /><br/><br/><br/>
+
 <div align="center">
     <div align="center">
         <h1 align="left">Programming Languages</h1>
