@@ -38,8 +38,9 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" height="28" />
         <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" height="28" />
         <img src="https://img.shields.io/badge/Postman-91FF00?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" height="28" />
-        <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="28" />
         <img src="https://img.shields.io/badge/Hoppscotch-111F0F?style=for-the-badge&logo=hoppscotch&logoColor=31C48D" alt="Hoppscotch" height="28" />
+        <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="28" />
+        <img src="https://img.shields.io/badge/Canva-1D1A47?style=for-the-badge&logo=canva&logoColor=E7E6f5" alt="Canva" height="28" />
     </div>
     <br/>
     <div>
