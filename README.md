@@ -53,4 +53,8 @@
             <hr>
         </h2>
     </div>
+    <div>
+    
+![View Count](https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=View%20Count&color=blue)
+    </div>
 </div>
