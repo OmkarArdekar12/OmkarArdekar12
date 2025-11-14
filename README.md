@@ -50,11 +50,10 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33" alt="LinkedIn logo" />
                 </a>
             </p>
+            <p align="left">
+                <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=View%20Count&color=blue" alt="Canva" height="28" />
+            </p>
             <hr>
         </h2>
-    </div>
-    <div>
-    
-![View Count](https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=View%20Count&color=blue)
     </div>
 </div>
