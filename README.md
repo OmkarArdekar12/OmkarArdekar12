@@ -38,6 +38,7 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" height="28" />
         <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" height="28" />
         <img src="https://img.shields.io/badge/Postman-91FF00?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" height="28" />
+        <img src="https://img.shields.io/badge/Thunder%20Client-3B82FF?style=for-the-badge&logo=thunderstore&logoColor=3BFFF6" height="28" />
         <img src="https://img.shields.io/badge/Hoppscotch-111F0F?style=for-the-badge&logo=hoppscotch&logoColor=31C48D" alt="Hoppscotch" height="28" />
         <img src="https://img.shields.io/badge/MySQL%20Workbench-00758f?style=for-the-badge&logo=mysql&logoColor=000099" alt="MySQL Workbench" height="28" />
         <img src="https://img.shields.io/badge/MongoDB%20Compass-00684A?style=for-the-badge&logo=mongodb&logoColor=023430" alt="MongoDB Compass" height="28" />
