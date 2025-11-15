@@ -47,8 +47,6 @@
         <img src="https://img.shields.io/badge/Canva-1D1A47?style=for-the-badge&logo=canva&logoColor=E7E6f5" alt="Canva" height="28" />
     </div>
     <br/>
-    <div>
-    </div>
     <br/>
     <div>
         <h2 align="right">Connect with me
