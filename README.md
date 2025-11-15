@@ -48,16 +48,23 @@
     </div>
     <br/>
     <div>
-        <h2 align="right">Connect with me
-            <p align="right">
-                <a href="https://www.linkedin.com/in/omkarardekar09" rel="noopener noreferrer" target="_blank">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33" alt="LinkedIn logo" />
-                </a>
-                <a href="https://www.youtube.com/@OmkarArdekar012" rel="noopener noreferrer" target="_blank">
-                    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="33" alt="YouTube logo" />
-                </a>
-            </p>
-            <hr/>
-        </h2>
-    </div>
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OmkarArdekar12&theme=transparent&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+
+</div>
+<br/>
+<div>
+<h2 align="right">Connect with me
+<p align="right">
+<a href="https://www.youtube.com/@OmkarArdekar012" rel="noopener noreferrer" target="_blank">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="33" alt="YouTube logo" />
+</a>
+<a href="https://www.linkedin.com/in/omkarardekar09" rel="noopener noreferrer" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33" alt="LinkedIn logo" />
+</a>
+</p>
+<hr/>
+</h2>
+</div>
+
 </div>
