@@ -48,7 +48,6 @@
     </div>
     <br/>
     <div>
-        <img href="https://github-readme-streak-stats.herokuapp.com?user=OmkarArdekar12&theme=transparent&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true" width="100%"/>
     </div>
     <br/>
     <div>
