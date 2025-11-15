@@ -55,7 +55,7 @@
                 </a>
             </p>
             <p align="left">
-                <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=View%20Count&color=blue" alt="Canva" height="28" />
+                <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=View%20Count&color=blue" alt="Canva" height="14" />
             </p>
             <hr/>
         </h2>
