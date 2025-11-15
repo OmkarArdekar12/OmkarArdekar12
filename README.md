@@ -53,6 +53,9 @@
                 <a href="https://www.linkedin.com/in/omkarardekar09" rel="noopener noreferrer" target="_blank">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33" alt="LinkedIn logo" />
                 </a>
+                <a href="https://www.youtube.com/@OmkarArdekar012" target="_blank">
+                    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="33" alt="YouTube logo" />
+                </a>
             </p>
             <hr/>
         </h2>
