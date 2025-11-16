@@ -3,11 +3,11 @@
 <div align="center">
   <div align="center">
     <h1 align="left">Programming Languages</h1>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55" alt="Java logo" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55rem" alt="Java logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45rem" alt="JavaScript logo" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="39" alt="C logo" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++ logo" />&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="45" alt="Python logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45rem" alt="C++ logo" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="45rem" alt="Python logo" />&nbsp;
   </div>
   <br/>
   <div align="center">
@@ -32,40 +32,40 @@
   <div align="center">
     <h1 align="left">Tools</h1>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1234DF?style=for-the-badge&logo=devbox&logoColor=FFFF00" alt="VS Code" height="27rem" />
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=ffd700" alt="IntelliJ IDEA" height="27" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-4C4F56?style=for-the-badge&logo=sublimetext&logoColor=ffb300" alt="Sublime Text" height="27" />
-    <img src="https://img.shields.io/badge/Git-FFA500?style=for-the-badge&logo=git&logoColor=FF0000" alt="Git" height="27" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" height="27" />
-    <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" height="27" />
-    <img src="https://img.shields.io/badge/Postman-91FF00?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" height="27" />
-    <img src="https://img.shields.io/badge/Thunder%20Client-3B82FF?style=for-the-badge&logo=thunderstore&logoColor=3BFFF6" height="27" />
-    <img src="https://img.shields.io/badge/Hoppscotch-111F0F?style=for-the-badge&logo=hoppscotch&logoColor=31C48D" alt="Hoppscotch" height="27" />
-    <img src="https://img.shields.io/badge/MySQL%20Workbench-00758f?style=for-the-badge&logo=mysql&logoColor=000099" alt="MySQL Workbench" height="27" />
-    <img src="https://img.shields.io/badge/MongoDB%20Compass-00684A?style=for-the-badge&logo=mongodb&logoColor=023430" alt="MongoDB Compass" height="27" />
-    <img src="https://img.shields.io/badge/Google%20Search%20Console-EA4335?style=for-the-badge&logo=google&logoColor=FBBC05" alt="Google Search Console" height="27" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="27" />
-    <img src="https://img.shields.io/badge/Render-3F8FFF?style=for-the-badge&logo=render&logoColor=white" height="27" />
-    <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="27" />
-    <img src="https://img.shields.io/badge/Canva-1D1A47?style=for-the-badge&logo=canva&logoColor=E7E6f5" alt="Canva" height="27" />
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=ffd700" alt="IntelliJ IDEA" height="27rem" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-4C4F56?style=for-the-badge&logo=sublimetext&logoColor=ffb300" alt="Sublime Text" height="27rem" />
+    <img src="https://img.shields.io/badge/Git-FFA500?style=for-the-badge&logo=git&logoColor=FF0000" alt="Git" height="27rem" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" height="27rem" />
+    <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" height="27rem" />
+    <img src="https://img.shields.io/badge/Postman-91FF00?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" height="27rem" />
+    <img src="https://img.shields.io/badge/Thunder%20Client-3B82FF?style=for-the-badge&logo=thunderstore&logoColor=3BFFF6" height="27rem" />
+    <img src="https://img.shields.io/badge/Hoppscotch-111F0F?style=for-the-badge&logo=hoppscotch&logoColor=31C48D" alt="Hoppscotch" height="27rem" />
+    <img src="https://img.shields.io/badge/MySQL%20Workbench-00758f?style=for-the-badge&logo=mysql&logoColor=000099" alt="MySQL Workbench" height="27rem" />
+    <img src="https://img.shields.io/badge/MongoDB%20Compass-00684A?style=for-the-badge&logo=mongodb&logoColor=023430" alt="MongoDB Compass" height="27rem" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="27rem" />
+    <img src="https://img.shields.io/badge/Render-3F8FFF?style=for-the-badge&logo=render&logoColor=white" height="27rem" />
+    <img src="https://img.shields.io/badge/Google%20Search%20Console-EA4335?style=for-the-badge&logo=google&logoColor=FBBC05" alt="Google Search Console" height="27rem" />
+    <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="27rem" />
+    <img src="https://img.shields.io/badge/Canva-1D1A47?style=for-the-badge&logo=canva&logoColor=E7E6f5" alt="Canva" height="27rem" />
   </div>
   <br/>
   <div align="center">
     <h2>Stats</h2>
     <p>
-      <img src="https://github-profile-trophy.vercel.app/?username=OmkarArdekar12&theme=onedark&no-frame=false&no-bg=true&title=Commit&row=1&column=1" valign="center" height="140" width="45%"/>
-      <img src="https://streak-stats.demolab.com?user=OmkarArdekar12&theme=transparent&hide_border=false&border_radius=10&hide_longest_streak=true" valign="center" height="140" width="45%"/>
+      <img src="https://github-profile-trophy.vercel.app/?username=OmkarArdekar12&theme=onedark&no-frame=false&no-bg=true&title=Commit&row=1&column=1" valign="center" height="145rem" width="45%"/>
+      <img src="https://streak-stats.demolab.com?user=OmkarArdekar12&theme=transparent&hide_border=false&border_radius=10&hide_longest_streak=true" valign="center" height="145rem" width="45%"/>
     </p>
     <p align="right">
-      <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=PROFILE+VIEWS&color=2A2A2A" height="25"/>
+      <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=PROFILE+VIEWS&color=2A2A2A" height="25rem"/>
     </p>
     <h2>Connect With Me</h2>
     <p>
       <a href="https://www.youtube.com/@OmkarArdekar012" rel="noopener noreferrer" target="_blank">
-        <img src="https://cdn.simpleicons.org/youtube/FF0000" height="33" alt="YouTube logo" valign="center" />
+        <img src="https://cdn.simpleicons.org/youtube/FF0000" height="33rem" alt="YouTube logo" valign="center" />
       </a>
       &nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/omkarardekar09" rel="noopener noreferrer" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33" alt="LinkedIn logo" valign="center" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33rem" alt="LinkedIn logo" valign="center" />
       </a>
     </p>
   </div>
