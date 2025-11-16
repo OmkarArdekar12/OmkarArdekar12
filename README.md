@@ -60,8 +60,11 @@
   <div align="center">
     <h2>Stats</h2>
     <p>
-      <img src="https://github-profile-trophy.vercel.app/?username=OmkarArdekar12&theme=onedark&no-frame=false&no-bg=true&title=Commit&row=1&column=1" valign="center" height="145rem" width="45%"/>
-      <img src="https://streak-stats.demolab.com?user=OmkarArdekar12&theme=transparent&hide_border=false&border_radius=10&hide_longest_streak=true" valign="center" height="145rem" width="45%"/>
+      &nbsp;
+      <img src="https://github-profile-trophy.vercel.app/?username=OmkarArdekar12&theme=onedark&no-frame=false&no-bg=true&title=Commit&row=1&column=1" valign="center" height="145rem"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://streak-stats.demolab.com?user=OmkarArdekar12&theme=transparent&hide_border=false&border_radius=10&hide_longest_streak=true" valign="center" height="145rem"/>
+      &nbsp;
     </p>
     <p align="right">
       <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=PROFILE+VIEWS&color=2A2A2A" height="25rem"/>
