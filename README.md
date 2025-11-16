@@ -74,6 +74,7 @@
       <img src="https://streak-stats.demolab.com?user=OmkarArdekar12&theme=transparent&hide_border=false&border_radius=10&hide_longest_streak=true" valign="center" height="145rem"/>
       &nbsp;
     </div>
+    <br/>
     <div align="right" width="100%">
       <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=PROFILE+VIEWS&color=2A2A2A" height="25rem" valign="center"/>
     </div>
