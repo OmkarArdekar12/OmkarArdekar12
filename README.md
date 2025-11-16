@@ -46,7 +46,6 @@
     <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="28" />
     <img src="https://img.shields.io/badge/Canva-1D1A47?style=for-the-badge&logo=canva&logoColor=E7E6f5" alt="Canva" height="28" />
   </div>
-  <hr/>
   <br/>
   <div align="center">
     <h2>Stats</h2>
@@ -54,12 +53,10 @@
       <img src="https://github-profile-trophy.vercel.app/?username=OmkarArdekar12&theme=onedark&no-frame=false&no-bg=true&title=Commit&row=1&column=1" valign="center" height="140" width="45%"/>
       <img src="https://streak-stats.demolab.com?user=OmkarArdekar12&theme=transparent&hide_border=false&border_radius=10&hide_longest_streak=true" valign="center" height="140" width="45%"/>
     </p>
-    <br/>
     <p align="right">
       <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=PROFILE+VIEWS&color=2A2A2A" height="25"/>
     </p>
   </div>
-  <br/>
   <div>
     <h2 align="center">Connect with me</h2>
     <p align="center">
