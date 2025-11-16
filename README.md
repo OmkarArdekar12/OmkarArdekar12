@@ -79,11 +79,16 @@
     </div>
     <h2 align="center" width="100%">Connect With Me</h2>
     <div align="center" width="100%">
-    
+    &nbsp;
+
 [<img src="https://cdn.simpleicons.org/youtube/FF0000" height="33rem" alt="YouTube logo" valign="center"/>](https://www.youtube.com/@OmkarArdekar012)
+&nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33rem" alt="LinkedIn logo" valign="center"/>](https://www.linkedin.com/in/omkarardekar09)
-    </div>
-  </div>
+
+&nbsp;
+
+</div>
+</div>
 </div>
 <hr/>
 <hr/>
