@@ -79,13 +79,9 @@
     </div>
     <h2 align="center" width="100%">Connect With Me</h2>
     <div align="center" width="100%">
-      <a href="https://www.youtube.com/@OmkarArdekar012" rel="noopener noreferrer" target="_blank">
-        <img src="https://cdn.simpleicons.org/youtube/FF0000" height="33rem" alt="YouTube logo" valign="center"/>
-      </a>
-      &nbsp;&nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/omkarardekar09" rel="noopener noreferrer" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33rem" alt="LinkedIn logo" valign="center"/>
-      </a>
+    
+[<img src="https://cdn.simpleicons.org/youtube/FF0000" height="33rem" alt="YouTube logo" valign="center"/>](https://www.youtube.com/@OmkarArdekar012)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33rem" alt="LinkedIn logo" valign="center"/>](https://www.linkedin.com/in/omkarardekar09)
     </div>
   </div>
 </div>
