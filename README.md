@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="28" />
     <img src="https://img.shields.io/badge/Canva-1D1A47?style=for-the-badge&logo=canva&logoColor=E7E6f5" alt="Canva" height="28" />
   </div>
-  <br/>
+  <hr/>
   <br/>
   <div align="center">
     <h2>Stats</h2>
@@ -59,7 +59,6 @@
       <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=PROFILE+VIEWS&color=2A2A2A" height="25"/>
     </p>
   </div>
-  <br/>
   <br/>
   <div>
     <h2 align="center">Connect with me</h2>
