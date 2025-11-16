@@ -56,10 +56,8 @@
     <p align="right">
       <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=PROFILE+VIEWS&color=2A2A2A" height="25"/>
     </p>
-  </div>
-  <div>
-    <h2 align="center">Connect with me</h2>
-    <p align="center">
+    <h2>Connect With Me</h2>
+    <p>
       <a href="https://www.youtube.com/@OmkarArdekar012" rel="noopener noreferrer" target="_blank">
         <img src="https://cdn.simpleicons.org/youtube/FF0000" height="33" alt="YouTube logo" valign="center" />
       </a>
