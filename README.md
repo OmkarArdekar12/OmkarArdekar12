@@ -43,6 +43,8 @@
     <img src="https://img.shields.io/badge/MySQL%20Workbench-00758f?style=for-the-badge&logo=mysql&logoColor=000099" alt="MySQL Workbench" height="27" />
     <img src="https://img.shields.io/badge/MongoDB%20Compass-00684A?style=for-the-badge&logo=mongodb&logoColor=023430" alt="MongoDB Compass" height="27" />
     <img src="https://img.shields.io/badge/Google%20Search%20Console-EA4335?style=for-the-badge&logo=google&logoColor=FBBC05" alt="Google Search Console" height="27" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="27" />
+    <img src="https://img.shields.io/badge/Render-3F8FFF?style=for-the-badge&logo=render&logoColor=white" height="27" />
     <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="27" />
     <img src="https://img.shields.io/badge/Canva-1D1A47?style=for-the-badge&logo=canva&logoColor=E7E6f5" alt="Canva" height="27" />
   </div>
