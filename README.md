@@ -77,9 +77,7 @@
         <img src="https://cdn.simpleicons.org/youtube/FF0000" height="33rem" alt="YouTube logo" valign="bottom"/>
       </a>
       &nbsp;&nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/omkarardekar09">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33rem" alt="LinkedIn logo" valign="bottom"/>
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33rem" alt="LinkedIn logo" valign="bottom"><a href="https://www.linkedin.com/in/omkarardekar09"></a></img>
       &nbsp;
     </div>
   </div>
