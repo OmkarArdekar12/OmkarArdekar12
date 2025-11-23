@@ -34,6 +34,7 @@
       <img src="https://img.shields.io/badge/Bootstrap-191919?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="39rem" valign="center"/>
       <img src="https://img.shields.io/badge/TypeScript-191919?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="JavaScript" height="39rem" valign="center"/>
       <img src="https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="39rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Sass%20/%20SCSS-191919?logo=sass&logoColor=CC6699&style=for-the-badge" height="39rem" alt="SASS/SCSS" valign="center"/>
       <img src="https://img.shields.io/badge/CSS3-191919?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" height="39rem" valign="center"/>
       <img src="https://img.shields.io/badge/HTML5-191919?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" height="39rem" valign="center"/>
       <img src="https://img.shields.io/badge/C-191919?style=for-the-badge&logo=c&logoColor=00599C" alt="C" height="39rem" valign="center"/>
