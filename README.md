@@ -3,7 +3,7 @@
 <div align="center" width="100%">
   <div align="center" width="100%">
     <h1 align="left" width="100%">Programming Languages</h1>
-    <div align="center" width="100%">
+    <div align="center" width="90%">
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55rem" alt="Java logo" valign="center"/>
       &nbsp;
@@ -22,7 +22,7 @@
   <br/>
   <div align="center" width="100%">
     <h1 align="left" width="100%">Technologies</h1>
-    <div align="center" width="90%">
+    <div align="center" width="100%">
       <img src="https://img.shields.io/badge/React-191919?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="39rem" valign="center"/>
       <img src="https://img.shields.io/badge/Redux-191919?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" height="39rem" valign="center"/>
       <img src="https://img.shields.io/badge/Node.js-191919?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" height="39rem" valign="center"/>
