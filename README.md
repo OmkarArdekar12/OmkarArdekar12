@@ -70,30 +70,19 @@
   </div>
   <br/>
   <div align="center" width="100%">
-    <!-- <h2 align="center" width="100%">Stats</h2>
-    <div align="center" width="100%">
-      &nbsp;
-      <img src="https://github-profile-trophy.vercel.app/?username=OmkarArdekar12&theme=onedark&no-frame=false&no-bg=true&title=Commit&row=1&column=1" valign="center" height="145rem"/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://streak-stats.demolab.com?user=OmkarArdekar12&theme=transparent&hide_border=false&border_radius=10&hide_longest_streak=true" valign="center" height="145rem"/>
-      &nbsp;
-    </div>
-    <br/>
-    <div align="right" width="100%">
-      <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=PROFILE+VIEWS&color=2A2A2A" height="25rem" valign="center"/>
-    </div> -->
     <h2 align="center" width="100%">Connect With Me</h2>
     <div align="center" width="100%">
-    &nbsp;
-    
-[<img src="https://cdn.simpleicons.org/youtube/FF0000" height="33rem" alt="YouTube logo" valign="center"/>](https://www.youtube.com/@OmkarArdekar012)
-&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33rem" alt="LinkedIn logo" valign="center"/>](https://www.linkedin.com/in/omkarardekar09)
-
-&nbsp;
-
-</div>
-</div>
+      &nbsp;
+      <a href="https://www.youtube.com/@OmkarArdekar012">
+        <img src="https://cdn.simpleicons.org/youtube/FF0000" height="33rem" alt="YouTube logo" valign="center"/>
+      </a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/omkarardekar09">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33rem" alt="LinkedIn logo" valign="center"/>
+      </a>
+      &nbsp;
+    </div>
+  </div>
 </div>
 <hr/>
 <hr/>
