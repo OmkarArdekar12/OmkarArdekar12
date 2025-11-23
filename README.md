@@ -70,7 +70,7 @@
   </div>
   <br/>
   <div align="center" width="100%">
-    <h2 align="center" width="100%">Connect With Me</h2>
+    <h2 align="center" width="100%">Connect with me</h2>
     <div align="center" width="100%">
       &nbsp;
       <a href="https://www.youtube.com/@OmkarArdekar012" target="_blank">
