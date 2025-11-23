@@ -68,7 +68,7 @@
   </div>
   <br/>
   <div align="center" width="100%">
-    <h2 align="center" width="100%">Stats</h2>
+    <!-- <h2 align="center" width="100%">Stats</h2>
     <div align="center" width="100%">
       &nbsp;
       <img src="https://github-profile-trophy.vercel.app/?username=OmkarArdekar12&theme=onedark&no-frame=false&no-bg=true&title=Commit&row=1&column=1" valign="center" height="145rem"/>
@@ -79,11 +79,11 @@
     <br/>
     <div align="right" width="100%">
       <img src="https://komarev.com/ghpvc/?username=OmkarArdekar12&style=for-the-badge&label=PROFILE+VIEWS&color=2A2A2A" height="25rem" valign="center"/>
-    </div>
+    </div> -->
     <h2 align="center" width="100%">Connect With Me</h2>
     <div align="center" width="100%">
     &nbsp;
-
+    
 [<img src="https://cdn.simpleicons.org/youtube/FF0000" height="33rem" alt="YouTube logo" valign="center"/>](https://www.youtube.com/@OmkarArdekar012)
 &nbsp;&nbsp;&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="33rem" alt="LinkedIn logo" valign="center"/>](https://www.linkedin.com/in/omkarardekar09)
