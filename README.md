@@ -30,11 +30,12 @@
       <img src="https://img.shields.io/badge/MySQL-191919?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/PostgreSQL-191919?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/MongoDB-191919?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Neo4j-191919?style=for-the-badge&logo=neo4j&logoColor=008CC1" alt="Neo4j Graph Database" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/TailwindCSS-191919?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/Bootstrap-191919?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/TypeScript-191919?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="JavaScript" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="37rem" valign="center"/>
-      <img src="https://img.shields.io/badge/Sass%20/%20SCSS-191919?logo=sass&logoColor=CC6699&style=for-the-badge" height="37rem" alt="SASS/SCSS" valign="center"/>
+      <img src="https://img.shields.io/badge/Sass%20/%20SCSS-191919?logo=sass&logoColor=CC6699&style=for-the-badge" height="37rem" alt="SASS/SCSS (Syntactically Awesome Style Sheets/Sassy CSS(Cascading Style Sheets).)" valign="center"/>
       <img src="https://img.shields.io/badge/Material%20UI-191919?style=for-the-badge&logo=mui&logoColor=007FFF" alt="Material UI" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/DaisyUI-191919?style=for-the-badge&logo=daisyui&logoColor=5A0EF8" alt="DaisyUI" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/CSS3-191919?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" height="37rem" valign="center"/>
@@ -47,7 +48,7 @@
   </div>
   <br/>
   <div align="center" width="100%">
-    <h1 align="left" width="100%">Tools</h1>
+    <h1 align="left" width="100%">Tools & Services</h1>
     <div align="center" width="90%">
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-1234DF?style=for-the-badge&logo=devbox&logoColor=FFFF00" alt="VS Code" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-2C2255?style=for-the-badge&logo=intellijidea&logoColor=ffd700" alt="IntelliJ IDEA" height="27rem" valign="center"/>
@@ -63,6 +64,11 @@
       <img src="https://img.shields.io/badge/pgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgAdmin" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Render-3F8FFF?style=for-the-badge&logo=render&logoColor=white" alt="OnRender" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" height="27rem" valign="center"/>
+      <!-- <img src="https://img.shields.io/badge/NeonDB-4300FF?style=for-the-badge&logo=postgresql&logoColor=white" alt="NeonDB" height="27rem" valign="center"/> -->
+      <img src="https://img.shields.io/badge/Neo4j%20AuraDB-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j AuraDB Graph DB" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Cloudinary-F0F0F0?style=for-the-badge&logo=cloudinary&logoColor=3448C5" alt="Cloudinary (Cloud & Media Storage)" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Google%20Search%20Console-EA4335?style=for-the-badge&logo=google&logoColor=FBBC05" alt="Google Search Console" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Canva-1D1A47?style=for-the-badge&logo=canva&logoColor=E7E6f5" alt="Canva" height="27rem" valign="center"/>
