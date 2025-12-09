@@ -1,4 +1,4 @@
-<img src="OmkarHeader.gif" alt="MyHeaderImage" width="100%" align="center" valign="center"/><br/><br/><br/>
+<img src="MyHeader.gif" alt="MyHeaderImage" width="100%" align="center" valign="center"/><br/><br/><br/>
 
 <div align="center" width="100%">
   <div align="center" width="100%">
