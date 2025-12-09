@@ -80,7 +80,7 @@
   </div>
 
   <br/>
-  
+
   <div align="center" width="100%">
     <h2 align="center" width="100%">Connect with me</h2>
     <div align="center" width="100%">
@@ -92,5 +92,6 @@
     </div>
   </div>
 </div>
+
 <hr/>
 <hr/>
