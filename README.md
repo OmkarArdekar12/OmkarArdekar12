@@ -21,7 +21,7 @@
   </div>
 
   <br/>
-  
+
   <div align="center" width="100%">
     <h1 align="left" width="100%">Technologies</h1>
     <div align="center" width="90%">
@@ -48,7 +48,9 @@
       <img src="https://img.shields.io/badge/Python-191919?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" height="37rem" valign="center"/>
     </div>
   </div>
+
   <br/>
+  
   <div align="center" width="100%">
     <h1 align="left" width="100%">Tools & Services</h1>
     <div align="center" width="90%">
