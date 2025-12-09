@@ -19,7 +19,9 @@
       &nbsp;
     </div>
   </div>
+
   <br/>
+  
   <div align="center" width="100%">
     <h1 align="left" width="100%">Technologies</h1>
     <div align="center" width="90%">
