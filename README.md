@@ -33,8 +33,8 @@
       <img src="https://img.shields.io/badge/PostgreSQL-191919?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/MongoDB-191919?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/Neo4j-191919?style=for-the-badge&logo=neo4j&logoColor=008CC1" alt="Neo4j Graph Database" height="37rem" valign="center"/>
-      <img src="https://img.shields.io/badge/REST%20API-191919?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST API" height="37rem" valign="center"/>
-      <img src="https://img.shields.io/badge/GraphQL-191919?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/REST%20API-191919?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" alt="REST API (Representational State Transfer Application Programming Interface)" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/GraphQL-191919?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL (Graph Query Language)" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/Svelte-191919?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte / Svelte5" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/TailwindCSS-191919?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/Bootstrap-191919?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="37rem" valign="center"/>
