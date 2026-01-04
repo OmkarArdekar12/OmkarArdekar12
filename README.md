@@ -26,6 +26,7 @@
     <h1 align="left" width="100%">Technologies</h1>
     <div align="center" width="90%">
       <img src="https://img.shields.io/badge/React-191919?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Next.js-191919?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/Redux-191919?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/Node.js-191919?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/Express.js-191919?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" height="37rem" valign="center"/>
