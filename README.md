@@ -79,6 +79,7 @@
       <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" height="27rem" valign="center"/>
       <!-- <img src="https://img.shields.io/badge/NeonDB-4300FF?style=for-the-badge&logo=postgresql&logoColor=white" alt="NeonDB" height="27rem" valign="center"/> -->
       <img src="https://img.shields.io/badge/Neo4j%20AuraDB-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j AuraDB Graph DB" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Cloudinary-F0F0F0?style=for-the-badge&logo=cloudinary&logoColor=3448C5" alt="Cloudinary (Cloud & Media Storage)" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Google%20Search%20Console-EA4335?style=for-the-badge&logo=google&logoColor=FBBC05" alt="Google Search Console" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Figma-12340D?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="27rem" valign="center"/>
