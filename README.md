@@ -36,9 +36,11 @@
       <img src="https://img.shields.io/badge/Neo4j-191919?style=for-the-badge&logo=neo4j&logoColor=008CC1" alt="Neo4j Graph Database" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/REST%20API-191919?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" alt="REST API (Representational State Transfer Application Programming Interface)" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/GraphQL-191919?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL (Graph Query Language)" height="37rem" valign="center"/>
-      <img src="https://img.shields.io/badge/Svelte-191919?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte / Svelte5" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Docker-191919?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Kubernetes-191919?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/TailwindCSS-191919?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/Bootstrap-191919?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Svelte-191919?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte / Svelte5" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/Vue.js-191919?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/TypeScript-191919?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="JavaScript" height="37rem" valign="center"/>
       <img src="https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="37rem" valign="center"/>
@@ -66,6 +68,8 @@
       <img src="https://img.shields.io/badge/Sublime%20Text-4C4F56?style=for-the-badge&logo=sublimetext&logoColor=ffb300" alt="Sublime Text" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Git-FFA500?style=for-the-badge&logo=git&logoColor=FF0000" alt="Git" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-191919?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions CI/CD" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/GitHub%20Pages-191919?style=for-the-badge&logo=githubpages&logoColor=FFFFFF" alt="GitHub Pages" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=2b2b2b" alt="PyCharm" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Postman-91FF00?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Thunder%20Client-3B82FF?style=for-the-badge&logo=thunderstore&logoColor=3BFFF6" height="27rem" valign="center"/>
@@ -77,7 +81,7 @@
       <img src="https://img.shields.io/badge/Render-3F8FFF?style=for-the-badge&logo=render&logoColor=white" alt="OnRender" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" height="27rem" valign="center"/>
-      <!-- <img src="https://img.shields.io/badge/NeonDB-4300FF?style=for-the-badge&logo=postgresql&logoColor=white" alt="NeonDB" height="27rem" valign="center"/> -->
+      <img src="https://img.shields.io/badge/NeonDB-4300FF?style=for-the-badge&logo=postgresql&logoColor=white" alt="NeonDB" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Neo4j%20AuraDB-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j AuraDB Graph DB" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" height="27rem" valign="center"/>
       <img src="https://img.shields.io/badge/Cloudinary-F0F0F0?style=for-the-badge&logo=cloudinary&logoColor=3448C5" alt="Cloudinary (Cloud & Media Storage)" height="27rem" valign="center"/>
