@@ -1,6 +1,6 @@
 <img src="Omkar.gif" alt="MASTER" width="100%" align="center" valign="center"/><br/><br/><br/>
 
-<div align="center" width="100%">
+<!-- <div align="center" width="100%">
   <div align="center" width="100%">
     <h1 align="left" width="100%">Programming Languages</h1>
     <div align="center" width="90%">
@@ -129,7 +129,9 @@
   </div>
 </div>
 
-<hr/><hr/>
+<hr/><hr/> -->
+
+<!--  -->
 
 <!-- <div align="center" width="100%">
   <div align="center" width="100%">
