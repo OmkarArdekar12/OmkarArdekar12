@@ -1,5 +1,136 @@
 <img src="Omkar.gif" alt="MASTER" width="100%" align="center" valign="center"/><br/><br/><br/>
 
+<div align="center" width="100%">
+  <div align="center" width="100%">
+    <h1 align="left" width="100%">Programming Languages</h1>
+    <div align="center" width="90%">
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="55rem" alt="Java logo" valign="center"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45rem" alt="C++ logo" valign="center"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="39" alt="C logo" valign="center"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45rem" alt="JavaScript logo" valign="center"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45rem" alt="TypeScript logo" valign="center"/>
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="45rem" alt="Python logo" valign="center"/>
+      &nbsp;
+    </div>
+  </div>
+
+  <br/>
+
+  <div align="center" width="100%">
+    <h1 align="left" width="100%">Skills & Technologies</h1>
+    <div align="center" width="90%">
+      <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-191919?style=for-the-badge&logo=codeforces&logoColor=FFD012" alt="Data Structures and Algorithms" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/System%20Design-191919?style=for-the-badge&logo=diagramsdotnet&logoColor=F59E0B" alt="System Design" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Problem%20Solving-191919?style=for-the-badge&logo=bookmeter&logoColor=8B5CF6" alt="Problem Solving" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Object--Oriented%20Programming%20System%20%28OOPs%29-191919?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDA3NEJEIiBkPSJNNTIuNTgxIDY3LjgxN3MtMy4yODQgMS45MTEgMi4zNDEgMi41NTdjNi44MTQuNzc4IDEwLjI5Ny42NjYgMTcuODA1LS43NTMgMCAwIDEuOTc5IDEuMjM3IDQuNzM1IDIuMzA5LTE2LjgzNiA3LjIxMy0zOC4xMDQtLjQxOC0yNC44ODEtNC4xMTN6bS0yLjA1OS05LjQxNXMtMy42ODQgMi43MjkgMS45NDUgMy4zMTFjNy4yOC43NTEgMTMuMDI3LjgxMyAyMi45NzktMS4xMDMgMCAwIDEuMzczIDEuMzk2IDMuNTM2IDIuMTU3LTIwLjM1MiA1Ljk1NC00My4wMjEuNDY5LTI4LjQ2LTQuMzY1eiIvPjxwYXRoIGZpbGw9IiNFQTJEMkUiIGQ9Ik02Ny44NjUgNDIuNDMxYzQuMTUxIDQuNzc4LTEuMDg4IDkuMDc0LTEuMDg4IDkuMDc0czEwLjUzMy01LjQzNyA1LjY5Ni0xMi4yNDhjLTQuNTE5LTYuMzQ5LTcuOTgyLTkuNTAyIDEwLjc3MS0yMC4zNzguMDAxIDAtMjkuNDM4IDcuMzUtMTUuMzc5IDIzLjU1MnoiLz48cGF0aCBmaWxsPSIjMDA3NEJEIiBkPSJNOTAuMTMyIDc0Ljc4MXMyLjQzMiAyLjAwNS0yLjY3OCAzLjU1NWMtOS43MTYgMi45NDMtNDAuNDQ0IDMuODMxLTQ4Ljk3OS4xMTctMy4wNjYtMS4zMzUgMi42ODctMy4xODcgNC40OTYtMy41NzYgMS44ODctLjQwOSAyLjk2NS0uMzM0IDIuOTY1LS4zMzQtMy40MTItMi40MDMtMjIuMDU1IDQuNzE5LTkuNDY5IDYuNzYyIDM0LjMyNCA1LjU2MyA2Mi41NjctMi41MDYgNTMuNjY1LTYuNTI0em0tMzUuOTctMjYuMTM0cy0xNS42MjkgMy43MTMtNS41MzQgNS4wNjNjNC4yNjQuNTcgMTIuNzU4LjQzOSAyMC42NzYtLjIyNSA2LjQ2OS0uNTQzIDEyLjk2MS0xLjcwNCAxMi45NjEtMS43MDRzLTIuMjc5Ljk3OC0zLjkzIDIuMTA0Yy0xNS44NzQgNC4xNzUtNDYuNTMzIDIuMjMtMzcuNzA2LTIuMDM4IDcuNDYzLTMuNjExIDEzLjUzMy0zLjIgMTMuNTMzLTMuMnpNODIuMiA2NC4zMTdjMTYuMTM1LTguMzgyIDguNjc0LTE2LjQzOCAzLjQ2Ny0xNS4zNTMtMS4yNzMuMjY2LTEuODQ1LjQ5Ni0xLjg0NS40OTZzLjQ3NS0uNzQ0IDEuMzc4LTEuMDYzYzEwLjMwMi0zLjYyIDE4LjIyMyAxMC42ODEtMy4zMjIgMTYuMzQ1IDAgMCAuMjQ3LS4yMjQuMzIyLS40MjV6Ii8+PHBhdGggZmlsbD0iI0VBMkQyRSIgZD0iTTcyLjQ3NCAxLjMxM3M4LjkzNSA4LjkzOS04LjQ3NiAyMi42ODJjLTEzLjk2MiAxMS4wMjctMy4xODQgMTcuMzEzLS4wMDYgMjQuNDk4LTguMTUtNy4zNTQtMTQuMTI4LTEzLjgyOC0xMC4xMTgtMTkuODUyIDUuODg5LTguODQyIDIyLjIwNC0xMy4xMzEgMTguNi0yNy4zMjh6Ii8+PHBhdGggZmlsbD0iIzAwNzRCRCIgZD0iTTU1Ljc0OSA4Ny4wMzljMTUuNDg0Ljk5IDM5LjI2OS0uNTUxIDM5LjgzMi03Ljg3OCAwIDAtMS4wODIgMi43NzctMTIuNzk5IDQuOTgxLTEzLjIxOCAyLjQ4OC0yOS41MjMgMi4xOTktMzkuMTkxLjYwMyAwIDAgMS45OCAxLjY0IDEyLjE1OCAyLjI5NHoiLz48cGF0aCBmaWxsPSIjRUEyRDJFIiBkPSJNOTQuODY2IDEwMC4xODFoLS40NzJ2LS4yNjRoMS4yN3YuMjY0aC0uNDd2MS4zMTdoLS4zMjlsLjAwMS0xLjMxN3ptMi41MzUuMDY2aC0uMDA2bC0uNDY4IDEuMjUxaC0uMjE2bC0uNDY1LTEuMjUxaC0uMDA1djEuMjUxaC0uMzEydi0xLjU4MWguNDU3bC40MzEgMS4xMTkuNDMyLTEuMTE5aC40NTR2MS41ODFoLS4zMDJ2LTEuMjUxem0tNDQuMTkgMTQuNzljLTEuNDYgMS4yNjYtMy4wMDQgMS45NzgtNC4zOTEgMS45NzgtMS45NzQgMC0zLjA0NS0xLjE4Ni0zLjA0NS0zLjA4NSAwLTIuMDU1IDEuMTQ2LTMuNTYgNS43MzgtMy41NmgxLjY5N3Y0LjY2N2guMDAxem00LjAzMSA0LjU0OHYtMTQuMDc3YzAtMy41OTktMi4wNTMtNS45NzMtNi45OTctNS45NzMtMi44ODYgMC01LjQxNi43MTQtNy40NzMgMS42MjJsLjU5MiAyLjQ5M2MxLjYyLS41OTUgMy43MTUtMS4xNDcgNS43NzEtMS4xNDcgMi44NSAwIDQuMDc1IDEuMTQ3IDQuMDc1IDMuNTIxdjEuNzc5aC0xLjQyNGMtNi45MjEgMC0xMC4wNDQgMi42ODUtMTAuMDQ0IDYuNzIzIDAgMy40NzkgMi4wNTggNS40NTYgNS45MzMgNS40NTYgMi40OSAwIDQuMzUxLTEuMDI4IDYuMDg4LTIuNTMzbC4zMTYgMi4xMzdoMy4xNjN2LS4wMDF6bTEzLjQ1MiAwaC01LjAyN2wtNi4wNTEtMTkuNjg5aDQuMzkxbDMuNzU2IDEyLjA5OS44MzUgMy42MzVjMS44OTYtNS4yNTggMy4yNC0xMC41OTYgMy45MTItMTUuNzMzaDQuMjcxYy0xLjE0MyA2LjQ4MS0zLjIwMyAxMy41OTgtNi4wODcgMTkuNjg4em0xOS4yODgtNC41NDhjLTEuNDY1IDEuMjY2LTMuMDEgMS45NzgtNC4zOTIgMS45NzgtMS45NzYgMC0zLjA0Ni0xLjE4Ni0zLjA0Ni0zLjA4NSAwLTIuMDU1IDEuMTQ5LTMuNTYgNS43MzYtMy41NmgxLjcwMXY0LjY2N2guMDAxem00LjAzMyA0LjU0OHYtMTQuMDc3YzAtMy41OTktMi4wNTktNS45NzMtNi45OTktNS45NzMtMi44ODkgMC01LjQxOC43MTQtNy40NzUgMS42MjJsLjU5MyAyLjQ5M2MxLjYyLS41OTUgMy43MTgtMS4xNDcgNS43NzQtMS4xNDcgMi44NDYgMCA0LjA3NCAxLjE0NyA0LjA3NCAzLjUyMXYxLjc3OWgtMS40MjRjLTYuOTIzIDAtMTAuMDQ1IDIuNjg1LTEwLjA0NSA2LjcyMyAwIDMuNDc5IDIuMDU2IDUuNDU2IDUuOTMgNS40NTYgMi40OTEgMCA0LjM0OS0xLjAyOCA2LjA5MS0yLjUzM2wuMzE4IDIuMTM3aDMuMTYzdi0uMDAxem0tNTYuNjkzIDMuMzQ2Yy0xLjE0NyAxLjY3OS0zLjAwNSAzLjAwOC01LjAzNyAzLjc1N2wtMS45ODktMi4zNDVjMS41NDctLjc5NCAyLjg3Mi0yLjA3NSAzLjQ4OS0zLjI2OS41MzItMS4wNjMuNzUzLTIuNDMuNzUzLTUuNzAxVjkyLjg5MWg0LjI4NHYyMi4xNzNjMCA0LjM3NS0uMzQ4IDYuMTQ0LTEuNSA3Ljg2N3oiLz48L3N2Zz4=&logoColor=FFD012" alt="Object-Oriented Programming (OOP)" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Architecture%20%26%20Database%20Design-191919?style=for-the-badge&logo=instructure&logoColor=4169E1" alt="Architecture & Database Design" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Software%20Engineering-191919?style=for-the-badge&logo=airplayvideo&logoColor=F97316" alt="Software Engineering" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Distributed%20Systems-191919?style=for-the-badge&logo=apachekafka&logoColor=A855F7" alt="Distributed Systems" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Secure%20%26%20Scalable%20Systems-191919?style=for-the-badge&logo=levelsdotfyi&logoColor=F38020" alt="Secure & Scalable Systems" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Dynamic%20%26%20Robust%20Systems-191919?style=for-the-badge&logo=miraheze&logoColor=6DB33F" alt="Dynamic & Robust Systems" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Performance%20Optimization-191919?style=for-the-badge&logo=speedtest&logoColor=F59E0B" alt="Performance Optimization" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/SEO%20Optimization-191919?style=for-the-badge&logo=searxng&logoColor=22C55E" alt="SEO Optimization" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Fully%20Responsive%20UI%2FUX-191919?style=for-the-badge&logo=anycubic&logoColor=A855F7" alt="Fully Responsive UI/UX" height="37rem" valign="center"/><br/>
+      <img src="https://img.shields.io/badge/React-191919?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Next.js-191919?style=for-the-badge&logo=nextdotjs&logoColor=E5E7EB" alt="Next.js" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Redux-191919?style=for-the-badge&logo=redux&logoColor=764ABC" alt="Redux" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Node.js-191919?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Express.js-191919?style=for-the-badge&logo=express&logoColor=E5E7EB" alt="Express.js" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Spring-191919?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Spring%20Boot-191919?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/MySQL-191919?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-191919?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/MongoDB-191919?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Neo4j-191919?style=for-the-badge&logo=neo4j&logoColor=008CC1" alt="Neo4j" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/REST%20API-191919?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" alt="REST API" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/GraphQL-191919?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Docker-191919?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Kubernetes-191919?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-191919?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Bootstrap-191919?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Svelte-191919?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Vue.js-191919?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/TypeScript-191919?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/JavaScript-191919?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/EJS-191919?style=for-the-badge&logo=ejs&logoColor=F4DC4E" alt="EJS" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Sass%20%2F%20SCSS-191919?style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass / SCSS" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/CSS-191919?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/HTML-191919?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Material%20UI-191919?style=for-the-badge&logo=mui&logoColor=007FFF" alt="Material UI" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/DaisyUI-191919?style=for-the-badge&logo=daisyui&logoColor=5A0EF8" alt="DaisyUI" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Shadcn%20UI-191919?style=for-the-badge&logo=shadcnui&logoColor=007FFF" alt="Shadcn UI" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Python-191919?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/C%2B%2B-191919?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/C-191919?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C" height="37rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Java-191919?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDA3NEJEIiBkPSJNNTIuNTgxIDY3LjgxN3MtMy4yODQgMS45MTEgMi4zNDEgMi41NTdjNi44MTQuNzc4IDEwLjI5Ny42NjYgMTcuODA1LS43NTMgMCAwIDEuOTc5IDEuMjM3IDQuNzM1IDIuMzA5LTE2LjgzNiA3LjIxMy0zOC4xMDQtLjQxOC0yNC44ODEtNC4xMTN6bS0yLjA1OS05LjQxNXMtMy42ODQgMi43MjkgMS45NDUgMy4zMTFjNy4yOC43NTEgMTMuMDI3LjgxMyAyMi45NzktMS4xMDMgMCAwIDEuMzczIDEuMzk2IDMuNTM2IDIuMTU3LTIwLjM1MiA1Ljk1NC00My4wMjEuNDY5LTI4LjQ2LTQuMzY1eiIvPjxwYXRoIGZpbGw9IiNFQTJEMkUiIGQ9Ik02Ny44NjUgNDIuNDMxYzQuMTUxIDQuNzc4LTEuMDg4IDkuMDc0LTEuMDg4IDkuMDc0czEwLjUzMy01LjQzNyA1LjY5Ni0xMi4yNDhjLTQuNTE5LTYuMzQ5LTcuOTgyLTkuNTAyIDEwLjc3MS0yMC4zNzguMDAxIDAtMjkuNDM4IDcuMzUtMTUuMzc5IDIzLjU1MnoiLz48cGF0aCBmaWxsPSIjMDA3NEJEIiBkPSJNOTAuMTMyIDc0Ljc4MXMyLjQzMiAyLjAwNS0yLjY3OCAzLjU1NWMtOS43MTYgMi45NDMtNDAuNDQ0IDMuODMxLTQ4Ljk3OS4xMTctMy4wNjYtMS4zMzUgMi42ODctMy4xODcgNC40OTYtMy41NzYgMS44ODctLjQwOSAyLjk2NS0uMzM0IDIuOTY1LS4zMzQtMy40MTItMi40MDMtMjIuMDU1IDQuNzE5LTkuNDY5IDYuNzYyIDM0LjMyNCA1LjU2MyA2Mi41NjctMi41MDYgNTMuNjY1LTYuNTI0em0tMzUuOTctMjYuMTM0cy0xNS42MjkgMy43MTMtNS41MzQgNS4wNjNjNC4yNjQuNTcgMTIuNzU4LjQzOSAyMC42NzYtLjIyNSA2LjQ2OS0uNTQzIDEyLjk2MS0xLjcwNCAxMi45NjEtMS43MDRzLTIuMjc5Ljk3OC0zLjkzIDIuMTA0Yy0xNS44NzQgNC4xNzUtNDYuNTMzIDIuMjMtMzcuNzA2LTIuMDM4IDcuNDYzLTMuNjExIDEzLjUzMy0zLjIgMTMuNTMzLTMuMnpNODIuMiA2NC4zMTdjMTYuMTM1LTguMzgyIDguNjc0LTE2LjQzOCAzLjQ2Ny0xNS4zNTMtMS4yNzMuMjY2LTEuODQ1LjQ5Ni0xLjg0NS40OTZzLjQ3NS0uNzQ0IDEuMzc4LTEuMDYzYzEwLjMwMi0zLjYyIDE4LjIyMyAxMC42ODEtMy4zMjIgMTYuMzQ1IDAgMCAuMjQ3LS4yMjQuMzIyLS40MjV6Ii8+PHBhdGggZmlsbD0iI0VBMkQyRSIgZD0iTTcyLjQ3NCAxLjMxM3M4LjkzNSA4LjkzOS04LjQ3NiAyMi42ODJjLTEzLjk2MiAxMS4wMjctMy4xODQgMTcuMzEzLS4wMDYgMjQuNDk4LTguMTUtNy4zNTQtMTQuMTI4LTEzLjgyOC0xMC4xMTgtMTkuODUyIDUuODg5LTguODQyIDIyLjIwNC0xMy4xMzEgMTguNi0yNy4zMjh6Ii8+PHBhdGggZmlsbD0iIzAwNzRCRCIgZD0iTTU1Ljc0OSA4Ny4wMzljMTUuNDg0Ljk5IDM5LjI2OS0uNTUxIDM5LjgzMi03Ljg3OCAwIDAtMS4wODIgMi43NzctMTIuNzk5IDQuOTgxLTEzLjIxOCAyLjQ4OC0yOS41MjMgMi4xOTktMzkuMTkxLjYwMyAwIDAgMS45OCAxLjY0IDEyLjE1OCAyLjI5NHoiLz48cGF0aCBmaWxsPSIjRUEyRDJFIiBkPSJNOTQuODY2IDEwMC4xODFoLS40NzJ2LS4yNjRoMS4yN3YuMjY0aC0uNDd2MS4zMTdoLS4zMjlsLjAwMS0xLjMxN3ptMi41MzUuMDY2aC0uMDA2bC0uNDY4IDEuMjUxaC0uMjE2bC0uNDY1LTEuMjUxaC0uMDA1djEuMjUxaC0uMzEydi0xLjU4MWguNDU3bC40MzEgMS4xMTkuNDMyLTEuMTE5aC40NTR2MS41ODFoLS4zMDJ2LTEuMjUxem0tNDQuMTkgMTQuNzljLTEuNDYgMS4yNjYtMy4wMDQgMS45NzgtNC4zOTEgMS45NzgtMS45NzQgMC0zLjA0NS0xLjE4Ni0zLjA0NS0zLjA4NSAwLTIuMDU1IDEuMTQ2LTMuNTYgNS43MzgtMy41NmgxLjY5N3Y0LjY2N2guMDAxem00LjAzMSA0LjU0OHYtMTQuMDc3YzAtMy41OTktMi4wNTMtNS45NzMtNi45OTctNS45NzMtMi44ODYgMC01LjQxNi43MTQtNy40NzMgMS42MjJsLjU5MiAyLjQ5M2MxLjYyLS41OTUgMy43MTUtMS4xNDcgNS43NzEtMS4xNDcgMi44NSAwIDQuMDc1IDEuMTQ3IDQuMDc1IDMuNTIxdjEuNzc5aC0xLjQyNGMtNi45MjEgMC0xMC4wNDQgMi42ODUtMTAuMDQ0IDYuNzIzIDAgMy40NzkgMi4wNTggNS40NTYgNS45MzMgNS40NTYgMi40OSAwIDQuMzUxLTEuMDI4IDYuMDg4LTIuNTMzbC4zMTYgMi4xMzdoMy4xNjN2LS4wMDF6bTEzLjQ1MiAwaC01LjAyN2wtNi4wNTEtMTkuNjg5aDQuMzkxbDMuNzU2IDEyLjA5OS44MzUgMy42MzVjMS44OTYtNS4yNTggMy4yNC0xMC41OTYgMy45MTItMTUuNzMzaDQuMjcxYy0xLjE0MyA2LjQ4MS0zLjIwMyAxMy41OTgtNi4wODcgMTkuNjg4em0xOS4yODgtNC41NDhjLTEuNDY1IDEuMjY2LTMuMDEgMS45NzgtNC4zOTIgMS45NzgtMS45NzYgMC0zLjA0Ni0xLjE4Ni0zLjA0Ni0zLjA4NSAwLTIuMDU1IDEuMTQ5LTMuNTYgNS43MzYtMy41NmgxLjcwMXY0LjY2N2guMDAxem00LjAzMyA0LjU0OHYtMTQuMDc3YzAtMy41OTktMi4wNTktNS45NzMtNi45OTktNS45NzMtMi44ODkgMC01LjQxOC43MTQtNy40NzUgMS42MjJsLjU5MyAyLjQ5M2MxLjYyLS41OTUgMy43MTgtMS4xNDcgNS43NzQtMS4xNDcgMi44NDYgMCA0LjA3NCAxLjE0NyA0LjA3NCAzLjUyMXYxLjc3OWgtMS40MjRjLTYuOTIzIDAtMTAuMDQ1IDIuNjg1LTEwLjA0NSA2LjcyMyAwIDMuNDc5IDIuMDU2IDUuNDU2IDUuOTMgNS40NTYgMi40OTEgMCA0LjM0OS0xLjAyOCA2LjA5MS0yLjUzM2wuMzE4IDIuMTM3aDMuMTYzdi0uMDAxem0tNTYuNjkzIDMuMzQ2Yy0xLjE0NyAxLjY3OS0zLjAwNSAzLjAwOC01LjAzNyAzLjc1N2wtMS45ODktMi4zNDVjMS41NDctLjc5NCAyLjg3Mi0yLjA3NSAzLjQ4OS0zLjI2OS41MzItMS4wNjMuNzUzLTIuNDMuNzUzLTUuNzAxVjkyLjg5MWg0LjI4NHYyMi4xNzNjMCA0LjM3NS0uMzQ4IDYuMTQ0LTEuNSA3Ljg2N3oiLz48L3N2Zz4=&logoColor=EA2D2E" alt="Java" height="37rem" valign="center"/>
+    </div>
+
+  </div>
+
+  <br/>
+
+  <div align="center" width="100%">
+    <h1 align="left" width="100%">Tools & Services</h1>
+    <div align="center" width="90%">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-191919?style=for-the-badge&logo=devbox&logoColor=007ACC" alt="Visual Studio Code" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-191919?style=for-the-badge&logo=intellijidea&logoColor=FE2857" alt="IntelliJ IDEA" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Sublime%20Text-191919?style=for-the-badge&logo=sublimetext&logoColor=FF9800" alt="Sublime Text" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Git-191919?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/GitHub-191919?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="GitHub" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Linux-191919?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Bash-191919?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-191919?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/GitHub%20Pages-191919?style=for-the-badge&logo=githubpages&logoColor=E5E7EB" alt="GitHub Pages" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/PyCharm-191919?style=for-the-badge&logo=pycharm&logoColor=21D789" alt="PyCharm" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Postman-191919?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Thunder%20Client-191919?style=for-the-badge&logo=thunderstore&logoColor=3B82FF" alt="Thunder Client" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Hoppscotch-191919?style=for-the-badge&logo=hoppscotch&logoColor=31C48D" alt="Hoppscotch" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/MySQL%20Workbench-191919?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL Workbench" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/MongoDB%20Compass-191919?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB Compass" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/pgAdmin-191919?style=for-the-badge&logo=postgresql&logoColor=336791" alt="pgAdmin" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Vercel-191919?style=for-the-badge&logo=vercel&logoColor=E5E7EB" alt="Vercel" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Render-191919?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Cloudflare-191919?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Netlify-191919?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/MongoDB%20Atlas-191919?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB Atlas" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/NeonDB-191919?style=for-the-badge&logo=neon&logoColor=00E599" alt="NeonDB" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Neo4j%20AuraDB-191919?style=for-the-badge&logo=neo4j&logoColor=008CC1" alt="Neo4j AuraDB" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Supabase-191919?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Cloudinary-191919?style=for-the-badge&logo=cloudinary&logoColor=3448C5" alt="Cloudinary" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Google%20Search%20Console-191919?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Search Console" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Google%20Analytics-191919?style=for-the-badge&logo=googleanalytics&logoColor=E37400" alt="Google Analytics" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Bing%20Webmaster%20Tools-191919?style=for-the-badge&logo=windows11&logoColor=008373" alt="Bing Webmaster Tools" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Google%20AdSense-191919?style=for-the-badge&logo=googleadsense&logoColor=4285F4" alt="Google AdSense" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Figma-191919?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" height="27rem" valign="center"/>
+      <img src="https://img.shields.io/badge/Canva-191919?style=for-the-badge&logo=tldraw&logoColor=00C4CC" alt="Canva" height="27rem" valign="center"/>
+    </div>
+  </div>
+
+  <br/>
+
+  <div align="center" width="100%">
+    <h2 align="center" width="100%">Connect with me</h2>
+    <div align="center" width="100%">
+      &nbsp;
+      <a href="https://www.youtube.com/@OmkarArdekar012" target="_blank"><img src="https://img.shields.io/badge/YouTube-FFA012?style=for-the-badge&logo=youtube" height="33rem" alt="YouTube logo" valign="center"/></a>
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://omkarardekar.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFA012?style=for-the-badge&logo=codementor" height="33rem" alt="LinkedIn logo" valign="center"/></a>
+      &nbsp;
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/omkarardekar09" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FFA012?style=for-the-badge&logo=devbox" height="33rem" alt="LinkedIn logo" valign="center"/></a>
+      &nbsp;
+    </div>
+  </div>
+</div>
+
+<hr/><hr/>
+
 <!-- <div align="center" width="100%">
   <div align="center" width="100%">
     <h1 align="left" width="100%">Programming Languages</h1>
